@@ -477,10 +477,11 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     margin: 0;
 }
 
-
 .social-item .footer:hover, .social-item .footer:focus {
     background-color: #31d0aa;
 }
+
+/*FOOTER PART*/
 
 .footer-bottom {
     margin-bottom: 16px;
@@ -489,7 +490,6 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
-
 }
 
 .footer-subtitle {
@@ -544,6 +544,8 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 
+
+/* Modal*/
 .backdrop {
     position: fixed;
     top: 0;
